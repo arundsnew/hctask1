@@ -1,10 +1,10 @@
-<body bgcolor="grey">
+<!DOCTYPE html>
+<html>
+<body>
 
-<pre>
-<?php>
-print "This is a test page";
-print "<br />";
-print 'ifconfig';
-print 'date';
-<?>
-</pre>
+<?php
+echo "My first PHP script!";
+?>
+
+</body>
+</html>
